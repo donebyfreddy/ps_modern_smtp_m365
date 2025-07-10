@@ -57,7 +57,8 @@ A secure and modern PrestaShop module for sending transactional emails through M
 
 ## 📚 Documentation
 
-Full documentation is included in the module ZIP and also available on my [Portfolio Page](https://fomencuccini.tech/MyProjects/ModernSMTP.html#documentation)
+Full documentation is included in the module zip and available on my [Portfolio Page]([https://fomencuccini.tech/MyProjects/ModernSMTP.html#documentation)).
+
 ---
 
 ## 🤝 Support
