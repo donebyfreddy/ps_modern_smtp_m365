@@ -71,16 +71,15 @@ Need help or custom features?
 
 ## 📌 Requirements
 
-- PrestaShop 1.7 or 8.x
-- PHP 7.3+
+- PrestaShop  8.x (Soon for Presta 9)
 - Microsoft 365 account with proper API access
 
 ---
 
 ## 📃 License
 
-Commercial license — valid for one domain per purchase.
+Commercial license — lifetime access with unlimited domain usage included.
 
 ---
 
-© 2025 Your Company Name — All rights reserved.
+© 2025 Federico Mencuccini — All rights reserved.
