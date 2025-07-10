@@ -22,7 +22,7 @@ A secure and modern PrestaShop module for sending transactional emails through M
 
 🎉 Available now for commercial use:
 
-👉 **[Buy Now](https://yourwebsite.com/purchase/ps_modern_smtp_m365)**
+👉 **[Buy Now](https://payhip.com/b/VGn7b)**
 
 ---
 
