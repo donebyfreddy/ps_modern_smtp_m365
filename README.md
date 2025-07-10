@@ -22,7 +22,7 @@ A secure and modern PrestaShop module for sending transactional emails through M
 
 🎉 Available now for commercial use:
 
-👉 **[Buy Now](https://payhip.com/b/VGn7b){:target="_blank"}**
+👉 **[Buy Now](https://payhip.com/b/VGn7b{:target="_blank"})**
 
 ---
 
