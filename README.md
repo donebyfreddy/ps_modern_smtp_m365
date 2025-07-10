@@ -57,7 +57,7 @@ A secure and modern PrestaShop module for sending transactional emails through M
 
 ## 📚 Documentation
 
-Full documentation is included in the module zip and available on the [purchase page](https://yourwebsite.com/purchase/ps_modern_smtp_m365).
+Full documentation is included in the module zip and available on my [Portfolio Page]([https://fomencuccini.tech/MyProjects/ModernSMTP.html#documentation)).
 
 ---
 
@@ -65,7 +65,7 @@ Full documentation is included in the module zip and available on the [purchase 
 
 Need help or custom features?
 
-📩 Contact us: [support@yourdomain.com](mailto:support@yourdomain.com)
+📩 Contact me: [fo.mencuccini@gmail.com](mailto:fo.mencuccini@gmail.com)
 
 ---
 
