@@ -22,7 +22,7 @@ A secure and modern PrestaShop module for sending transactional emails through M
 
 🎉 Available now for commercial use:
 
-👉 **[Buy Now](https://payhip.com/b/VGn7b)**
+👉 **[Buy Now](https://payhip.com/b/VGn7b){:target="_blank"}**
 
 ---
 
@@ -57,8 +57,7 @@ A secure and modern PrestaShop module for sending transactional emails through M
 
 ## 📚 Documentation
 
-Full documentation is included in the module zip and available on my [Portfolio Page]([https://fomencuccini.tech/MyProjects/ModernSMTP.html#documentation)).
-
+Full documentation is included in the module ZIP and also available on my [Portfolio Page](https://fomencuccini.tech/MyProjects/ModernSMTP.html#documentation {:target="_blank"}.
 ---
 
 ## 🤝 Support
